@@ -1,4 +1,5 @@
 <?php
+
 include 'navbar.php';
 // SELECT orders.id, products.name, products.price
 // FROM orders
